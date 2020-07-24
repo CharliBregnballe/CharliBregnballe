@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-<!--
-**CharliBregnballe/CharliBregnballe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sometimes I wish I could structure my github repo in folders.
+I am just a hobby developer playing around with different technologies.
 
-Here are some ideas to get you started:
+My most interesting projects (and the majority of actual production projects) are not public projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-A
+Current list of my active projects:
+- BI tool for my normal job
+- Crawler tool for a streaming guide
+- koblr.dk 
+- React native app for work
+
+
+Most projects are build with either ruby, ruby on rails, react or react native.
