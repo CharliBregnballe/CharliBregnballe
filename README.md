@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Sometimes I wish I could structure my github repo in folders.
 I am just a hobby developer playing around with different technologies.
 
 My most interesting projects (and the majority of actual production projects) are not public projects.
